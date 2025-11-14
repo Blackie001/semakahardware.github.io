@@ -1,6 +1,6 @@
 # Semaka Website
 
-A simple and clean water brand website built for practice and skill growth in HTML, CSS, and JavaScript.  
+A simple and a hardware brand website built for practice and skill growth in HTML, CSS, and JavaScript.  
 This project focuses on creating a fully responsive layout while testing UI design concepts.
 
 ---
@@ -8,7 +8,6 @@ This project focuses on creating a fully responsive layout while testing UI desi
 ## 🚀 Features
 - Responsive hero section  
 - Contact form with validation  
-- FAQ section  
 - Clean navigation bar  
 - Reusable components for future projects  
 
