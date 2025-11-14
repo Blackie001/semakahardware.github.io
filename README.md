@@ -1,4 +1,4 @@
-# Kenya Springs Website
+# Semaka Website
 
 A simple and clean water brand website built for practice and skill growth in HTML, CSS, and JavaScript.  
 This project focuses on creating a fully responsive layout while testing UI design concepts.
