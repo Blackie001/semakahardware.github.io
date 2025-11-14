@@ -32,8 +32,8 @@ It also helps me experiment with layouts, functions, and real-world website elem
 ---
 
 ## 📞 Connect With Me
-- **Instagram:** your_username  
-- **Telegram:** your_username  
+- **Instagram:** Jefferson Blackie  
+- **Telegram:** Blackie  
 - **GitHub:** BLACKIE001  
 
 ---
