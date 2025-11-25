@@ -43,13 +43,11 @@ It also helps me experiment with layouts, functions, and real-world website elem
 ---
 
 ## 🏷️ Badges
-Add badges like this:
 
 ![HTML Badge](https://img.shields.io/badge/HTML-Expert-blue)
 ![CSS Badge](https://img.shields.io/badge/CSS-Styling-orange)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Learning-yellow)
 
-(Replace labels/colors later.)
 
 ---
 
